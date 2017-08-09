@@ -1,0 +1,17 @@
+.cp-themes{clear:both;}
+.cp-theme{ width: 20%; float:left; margin-right:10px;}
+.cp-theme-screenshot img{ max-width:100%; max-height:100%; }
+.cp-theme-title{ padding:10px;}
+.cp-screen{padding-top:10px;}
+.cp-screen div{ float:left; padding-right: 10px; display: table-cell; vertical-align: middle; min-height:27px; line-height: 27px; }
+.cp-screen div.clear,
+#cp_theme_switch_settings .clear{ float:none; padding: 0; display: block; min-height:0; line-height: auto; clear: both; }
+.cp-screen .short{width:100px;}
+.cp-preview{}
+.cp-preview-container{ display: none; text-align: center; margin: 20px 0; }
+.cp-preview-container iframe{ margin: 0 auto; border: 5px dashed rgba(0,0,0,.1); }
+.cp-profiles table{ border-spacing: 0; }
+.cp-profiles table tr td{ padding: 5px; }
+.cp-profiles table tr.selected td{ border-width: 1px 0 1px 0; border-style:solid; border-color:#1e8cbe; }
+.cp-profiles table tr.selected td:first-child{ border-width: 1px 0 1px 1px; }
+.cp-profiles table tr.selected td:last-child{ border-width: 1px 1px 1px 0; }
